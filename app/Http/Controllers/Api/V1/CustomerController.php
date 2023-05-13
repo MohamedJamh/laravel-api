@@ -40,7 +40,7 @@ class CustomerController extends Controller
      */
     public function store(StoreCustomerRequest $request)
     {
-        //
+        //Your store logic here
     }
 
     /**
